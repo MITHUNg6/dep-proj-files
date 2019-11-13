@@ -1,5 +1,5 @@
 package com.javachap.domain;
-
+//hello java
 import java.io.Serializable;
 import java.util.Date;
 
