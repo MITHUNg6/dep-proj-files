@@ -1,5 +1,4 @@
 package com.javachap.domain;
-//hello java
 public interface Category extends Domain {
 
 	String getName();
